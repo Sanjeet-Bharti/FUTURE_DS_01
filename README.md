@@ -1,4 +1,3 @@
-# FUTURE_DS_01
 📊 E-commerce Sales Dashboard – Power BI Project
 This project showcases an interactive Power BI dashboard built using real-world e-commerce sales data (Superstore dataset). The goal is to help business users quickly understand key sales patterns and make data-driven decisions.
 
